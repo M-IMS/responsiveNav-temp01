@@ -203,6 +203,12 @@ nav::-webkit-scrollbar {
   --bg-primary: #fdf6e3;
   --bg-secondary: #f5e5b8;
 }
+.purple {
+  --text-primary: #576e75;
+  --text-secondary: #35535c;
+  --bg-primary: #E5D1FA;
+  --bg-secondary: #E3DFFD;
+}
 
 .theme-icon {
   display: none;
@@ -217,5 +223,8 @@ nav::-webkit-scrollbar {
 }
 
 .solar #solarIcon {
+  display: block;
+}
+.purple #spaceIcon {
   display: block;
 }
