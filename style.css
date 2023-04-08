@@ -206,8 +206,8 @@ nav::-webkit-scrollbar {
 .purple {
   --text-primary: #576e75;
   --text-secondary: #35535c;
-  --bg-primary: #E5D1FA;
-  --bg-secondary: #E3DFFD;
+  --bg-primary: #E3DFFD;
+  --bg-secondary: #E5D1FA;
 }
 
 .theme-icon {
